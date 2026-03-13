@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a undergrad student in VIT-AP University<br>I'm looking for unpaid merit internships<br>I'm an enthusiastic student who's interested in hackathons <br>I'm currently upgrading and leveling up my skills
+I'm currently a undergrad student in VIT-AP University<br>I'm looking for merit internships<br>I'm an enthusiastic student who's interested in hackathons and tech events <br>I'm currently upgrading and leveling up my skills
 
 
 ## 🌐 Socials:
