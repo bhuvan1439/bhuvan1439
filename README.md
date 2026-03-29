@@ -1,5 +1,32 @@
 # 💫 About Me:
-I'm currently a undergrad student in VIT-AP University<br>I'm looking for merit internships<br>I'm an enthusiastic student who's interested in hackathons and tech events <br>I'm currently upgrading and leveling up my skills
+# Hi there, I'm SANGAM BHUVAN REDDY  👋
+
+### 🚀 Software Developer | Hackathon Enthusiast | 2nd-Year B.Tech Student
+
+I am a passionate software developer with a strong focus on building practical, scalable applications and solving real-world problems. Whether I'm designing AI-driven analytics, architecting robust databases, or competing in fast-paced hackathons, I thrive on turning complex challenges into efficient code. 
+
+## 🛠️ What I Do
+* **Full-Stack & Web Development:** Building seamless, user-centric platforms from the ground up.
+* **Database Management:** Designing structured, optimized relational data models and writing efficient SQL queries.
+* **AI & Data Integration:** Exploring machine learning integrations to add intelligent features to everyday software.
+* **Cybersecurity & CTFs:** Actively learning defensive and offensive security principles through Capture The Flag competitions.
+
+## 🏆 Hackathons & Competitions
+I actively test my skills and collaborate with diverse teams in high-stakes environments:
+* **Google Techsprint (2026):** Built *HappyTrip*, an innovative travel trip planning website.
+* **Smart India Hackathon (2025):** Developed *TripLogger* alongside team Echelon Minds.
+* **Amaravathi Quantum Valley Hackathon (2025):** Competed and collaborated on cutting-edge tech solutions.
+* **Cybersecurity CTFs:** Recently competed in *Project Atlas: Orbital Cascade*.
+
+## 💻 Featured Projects
+* **UpYield:** A trust-first FinTech platform focused on financial literacy and streamlined user experiences.
+* **AIM-OPS:** An AI-Driven Manufacturing Intelligence system designed to optimize industrial batch processes and analyze energy patterns.
+* **Tourism & Travel Ecosystem:** Continuously developing software solutions for Indian tourism development, including integrated travel planners and expense trackers.
+
+## 📫 Let's Connect!
+I am always open to discussing tech, collaborating on open-source projects, or exploring new opportunities. 
+---
+*"Focusing on the intersection of innovation, user trust, and intelligent engineering."*
 
 
 ## 🌐 Socials:
